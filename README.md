@@ -6,7 +6,7 @@
 
 - 🔭 No momento desenvolvo [Sites e Sistemas de Gestão](https://recallti.netlify.app)
 
-- 🌱 Cursando: **Gestão da Tecnologia da Informação**
+- 🌱 Formado em: **Gestão da Tecnologia da Informação**
 
 - 👯 Procuro colaborar com desenvolvedores **Sistema de Gestão Financeira**
 
