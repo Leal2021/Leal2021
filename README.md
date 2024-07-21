@@ -8,9 +8,9 @@
 
 - 🌱 Formado em: **Gestão da Tecnologia da Informação**
 
-- 👯 Procuro colaborar com desenvolvedores **Sistema de Gestão Financeira**
+- 👯 Procuro colaborar com desenvolvedores **Sistema de Gestão Financeira, Apps, Designers e trocar ideias de melhorias.**
 
-- 😉 Acesse nosso site para mais informações [RecallTI](https://recallti.netlify.app)
+- 😉 Acesse nosso site para mais informações [Em breve no Ar.]
 
 - 📝Escrevo regularmente no: [https://github.com/Leal2021](https://github.com/Leal2021)
 
