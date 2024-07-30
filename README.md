@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leal2021&label=Profile%20views&color=0e75b6&style=flat" alt="leal2021" /> </p>
 
-- 🔭 No momento desenvolvo [Sites e Sistemas de Gestão](https://recallti.netlify.app)
+- 🔭 No momento desenvolvo [Tudo relacionado a Arte Gráfica e atuando como Profissional de TI]
 
 - 🌱 Formado em: **Gestão da Tecnologia da Informação**
 
-- 👯 Procuro colaborar com desenvolvedores **Sistema de Gestão Financeira, Apps, Designers e trocar ideias de melhorias.**
+- 👯 Procuro colaborar com desenvolvedores **Com dicas em Manutenção de Computadores, Artes Gráficas e TI**
 
 - 😉 Acesse nosso site para mais informações [Em breve no Ar.]
 
 - 📝Escrevo regularmente no: [https://github.com/Leal2021](https://github.com/Leal2021)
 
-- 💬 Mande suas dúvidas sobre: **TI (Tecnologia da Informação)**
+- 💬 Mande suas dúvidas sobre: **luciano.leal2009@hotmail.com**
 
 - 📫 Contato: **luciano.leal2009@hotmail.com**
 
-- 📄 Sobre mim: [https://recallti.netlify.app](https://recallti.netlify.app)
+- 📄 Sobre mim: [Em breve nosso site estará no ar]
 
 - ⚡ Fato engraçado sobre mim: **Até hoje tento ser imitador do Silvio Santos**
 
