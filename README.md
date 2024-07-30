@@ -1,8 +1,8 @@
 ![banner](https://github.com/Leal2021/RecallTI/blob/main/imagens/LogoRedondado.png?raw=true)
 <h1 align="center">Olá, sou Luciano Leal</h1>
 <h3 align="center">Seja bem-vindo(a), aqui colocarei regularmente diversas dicas e exercícios em:
-<p>Arte Gráfica</p>
-  <h4>Programação (Web, Delphi, Phyton, Java, etc)</h4>
+<div>Arte Gráfica</div>
+  <div>Programação (Web, Delphi, Phyton, Java, etc)</div>
   <h4>Manutenção de Computadores</h4>
   <h5>Muito obrigado(a)!!!</h5>
 </h3>
