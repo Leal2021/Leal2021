@@ -2,11 +2,9 @@
 <h1 align="center">Olá, sou Luciano Leal</h1>
 <h3 align="center">Seja bem-vindo(a), aqui colocarei regularmente diversas dicas e exercícios em:</h3>
 <div>Arte Gráfica</div>
-  <div>Programação (Web, Delphi, Phyton, Java, etc)</div>
+<div>Programação (Web, Delphi, Phyton, Java, etc)</div>
   <h4>Manutenção de Computadores</h4>
   <h5>Muito obrigado(a)!!!</h5>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leal2021&label=Profile%20views&color=0e75b6&style=flat" alt="leal2021" /> </p>
 
 - 🔭 No momento desenvolvo [Tudo relacionado a Arte Gráfica e atuando como Profissional de TI]
@@ -27,7 +25,7 @@
 
 - ⚡ Fato engraçado sobre mim: **Até hoje tento ser imitador do Silvio Santos**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Aonde me achar:</h3>
 <p align="left">
 <a href="https://fb.com/luciano.leal2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luciano.leal2009" height="30" width="40" /></a>
 <a href="https://instagram.com/luciano.leal2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luciano.leal2009" height="30" width="40" /></a>
