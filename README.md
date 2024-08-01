@@ -1,4 +1,4 @@
-![banner](https://github.com/Leal2021/RecallTI/blob/main/imagens/LogoRedondado.png?raw=true)
+![banner_Cyber](https://github.com/Leal2021/CorelDraw-Arquivos/blob/main/banner_Cyber.png?raw=true)
 <h1 align="center">Olá, sou Luciano Leal</h1>
 <h3 align="center">Seja bem-vindo(a), aqui colocarei regularmente diversas dicas e exercícios em:</h3>
 <div>Arte Gráfica</div>
