@@ -1,13 +1,13 @@
 ![banner_Cyber](https://github.com/Leal2021/CorelDraw-Arquivos/blob/main/banner_Cyber.png?raw=true)
 <h1 align="center">Olá, sou Luciano Leal</h1>
 <h3 align="center">Seja bem-vindo(a), aqui colocarei regularmente diversas dicas e exercícios em:</h3>
-<div>Arte Gráfica</div>
+<div><b>Arte Gráfica</b></div>
 <div><b>Programação (Web, Delphi, Phyton, Java, etc)</b></div>
-  <h4>Manutenção de Computadores</h4>
+  <div><b>Manutenção de Computadores</b></div>
   <h5>Muito obrigado(a)!!!</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leal2021&label=Profile%20views&color=0e75b6&style=flat" alt="leal2021" /> </p>
 
-- 🔭 No momento desenvolvo [Tudo relacionado a Arte Gráfica e atuando como Profissional de TI]
+- 🔭 No momento desenvolvo **Projetos em TI e Designer Gráfico**
 
 - 🌱 Formado em: **Gestão da Tecnologia da Informação**
 
