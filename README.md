@@ -6,6 +6,9 @@
   <div><b>Manutenção de Computadores</b></div>
   <h5>Muito obrigado(a)!!!</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leal2021&label=Profile%20views&color=0e75b6&style=flat" alt="leal2021" /> </p>
+<p>![GitHub repo size](https://img.shields.io/github/repo-size/Leal2021/Leal2021)
+
+
 
 - 🔭 No momento desenvolvo **Projetos em TI e Designer Gráfico**
 
